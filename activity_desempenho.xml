@@ -1,0 +1,4 @@
+<LinearLayout ...>
+    <TextView android:id="@+id/performanceTitle" ... />
+    <LineChart android:id="@+id/performanceChart" ... />
+</LinearLayout>
