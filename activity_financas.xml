@@ -1,0 +1,4 @@
+<LinearLayout ...>
+    <TextView android:id="@+id/financesTitle" ... />
+    <RecyclerView android:id="@+id/financesRecyclerView" ... />
+</LinearLayout>
