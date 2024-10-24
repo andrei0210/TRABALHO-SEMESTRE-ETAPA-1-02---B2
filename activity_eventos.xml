@@ -1,0 +1,4 @@
+<LinearLayout ...>
+    <RecyclerView android:id="@+id/eventosRecyclerView" ... />
+    <Button android:id="@+id/addEventoButton" ... />
+</LinearLayout>
