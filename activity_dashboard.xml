@@ -1,0 +1,6 @@
+<LinearLayout ...>
+    <TextView android:id="@+id/welcomeMessage" ... />
+    <RecyclerView android:id="@+id/activitiesRecyclerView" ... />
+    <Button android:id="@+id/goToAtletas" ... />
+    <Button android:id="@+id/goToTreinos" ... />
+</LinearLayout>
