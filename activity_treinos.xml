@@ -1,0 +1,4 @@
+<LinearLayout ...>
+    <RecyclerView android:id="@+id/treinosRecyclerView" ... />
+    <Button android:id="@+id/addTreinoButton" ... />
+</LinearLayout>
