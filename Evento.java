@@ -1,8 +1,8 @@
-public class Treino {
+public class Evento {
     private String id;
     private String nome;
-    private String descricao;
     private String data;
+    private String local;
 
     // Construtores, getters e setters
 }
